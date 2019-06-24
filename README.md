@@ -1,7 +1,7 @@
 Face Recognition API
 =========================================
 
-Server for the facerecognition brain
+Server for the facerecognition brain.
 
 How to start the APP
 ----------------------------
