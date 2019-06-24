@@ -14,9 +14,9 @@ How to start the APP
 What i learned
 ----------------------------
 
-* Create a Server with Node, Express, and some npm packages ( knex body parser, cors ) 
+* Create a Server with Node, Express, and some npm packages ( knex, body parser, cors ) 
 * Create a plan for your Backend before starting to code.
-* Hash a password with bcrypt.
+* Hash a password with npm package bcrypt.
 * Create a Database with postgreSQL.
 * Refactor a Server with Controllers and advanced functions.
 * Connect API to a React App.
