@@ -21,4 +21,5 @@ What i learned
 * Refactor a Server with Controllers and advanced functions.
 * Connect API to a React App.
 * Deploy Server, Database, and Frontend React APP on Heroku
+* Created User Tables on PostgreSQL
 
